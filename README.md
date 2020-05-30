@@ -43,7 +43,7 @@ Your Answer:<br/>
 <br/><br/>
 <br/><br/>
 
-5. Briefly describe the 'seperation of concerns' in development. Why is this important? How do you determine when things should be broken down and separated? <br/><br/>
+5. Briefly describe the 'seperation of concerns' in development (ex: Why we separate HTML, CSS, JS). Why is this important? How do you determine when things should be broken down and separated? <br/><br/>
 Your Answer: <br/>
 <strong>YOUR ANSWER GOES HERE</strong>
 <br/><br/>
