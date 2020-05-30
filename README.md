@@ -1,3 +1,5 @@
+THIS IS A SMAPLE EDIT
+
 # Mach42 Code Mini-Challenge 5/30/2020
 
 # Suggestions:
