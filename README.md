@@ -15,7 +15,7 @@ Your Answer:<br/>
 <br/><br/>
 <br/><br/>
 
-2. Briefly explain what time and space complexity are in development. Why are the valuable to measure and how would one measure them?<br/><br/>
+2. Briefly explain what time and space complexity are in development. Why are they valuable to measure and how would one measure them?<br/><br/>
 Your Answer:<br/>
 <strong>YOUR ANSWER GOES HERE</strong>
 <br/><br/>
