@@ -21,7 +21,7 @@ Your Answer:<br/>
 <br/><br/>
 <br/><br/>
 
-3. You're given the snippet of code below that accepts a number as a parameter and returns the reverse of that number (i.e. INPUT = 123; OUTPUT = 321. However, this code is returning an error. Please describe why the code does not work and how you would fix it. 
+3. You're given the snippet of code below that accepts a number as a parameter and returns the reverse of that number (i.e. INPUT = 123; OUTPUT = 321. However, this code is returning an error. Please describe why the code does not work and how you would fix it. <br/>
 ```
 var reverse = function(x) {
   const y = x
@@ -31,6 +31,7 @@ var reverse = function(x) {
   return y;
 };
 ```
+<br/>
 Your Answer:<br/>
 <strong>YOUR ANSWER GOES HERE</strong>
 <br/><br/>
